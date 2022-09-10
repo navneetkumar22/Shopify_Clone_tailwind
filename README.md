@@ -29,5 +29,7 @@ This Shopify Clone  Page is created using HTML and Tailwind-CSS which is a utili
 <br>
 
 ## **My Other Projects :**
-<hr>
 <a href="https://navneetkumar.netlify.app"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+
+### **Source Credits :**
+[SHOPIFY](https://www.shopify.in)
